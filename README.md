@@ -10,5 +10,10 @@ This script works on Linux, MacOS and Windows (via Ubuntu emulation mode)
 
 
 
+License
+-------
+
+MIT. 
+You may do what ever you like with this code & repo
 
 
